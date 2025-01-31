@@ -3,10 +3,6 @@
 
 ---
 
-## Borned as a front-end developer
-
----
-
 ## 🛠️ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
