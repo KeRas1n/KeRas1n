@@ -1,5 +1,5 @@
 # Kiril 
-### 💻 Junior React Developer | JavaScript | Redux | TypeScript 
+### 💻 Front-end Developer | JavaScript | React | Redux | TypeScript 
 
 ---
 
