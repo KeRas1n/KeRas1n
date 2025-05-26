@@ -1,5 +1,6 @@
 # Kiril 
-### 💻 Front-end Developer | JavaScript | React | Redux | TypeScript 
+## CTU Student
+### 💻 Front-end Developer | JavaScript | React | Redux | TypeScript
 
 ---
 
